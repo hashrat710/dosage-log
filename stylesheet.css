@@ -1,0 +1,31 @@
+* {
+	box-sizing: border-box;
+}
+
+.header {
+	background-color: #B9FFB7;
+	font-family: 'Andale Mono';
+	font-weight: bold;
+	height: 100px;
+	width: 800px;
+}
+
+.dataTable {
+	background-color: #B9FFB7;
+}
+
+body {
+	background-color: #403233;
+}
+
+form {
+	background-color: #B9FFB7;
+	width: 300px;
+	text-align: left;
+	display: table;
+}
+
+table, th, td {
+	color: black;
+	border: 1px solid #403233;
+}
