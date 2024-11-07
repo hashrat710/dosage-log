@@ -2,12 +2,18 @@
 	box-sizing: border-box;
 }
 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .header {
 	background-color: #B9FFB7;
 	font-family: 'Andale Mono';
 	font-weight: bold;
-	height: 200px;
-	width: 800px;
+	height: 10%;
+	width: 100%;
 }
 
 .dataTable {
